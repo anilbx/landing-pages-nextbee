@@ -1,0 +1,440 @@
+@media (min-width: 1400px){
+.container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    max-width: 1200px !important;
+}
+}
+@media screen and (min-width:481px) and (max-width:767px) {
+.logo-div {
+    flex-wrap: wrap;
+}
+.banner-section .bg-col {
+    width: 50% !important;
+}
+}
+@media screen and (max-width:480px) {
+.logo-div {
+    flex-wrap: wrap;
+}
+.banner-section .bg-col {
+    width: 100% !important;
+}
+}
+@media screen and (max-width:767px) {
+.banner-section h1 {
+    font-size: 32px;
+}
+.modal-header h3 {
+    font-size: 20px !important;
+    text-align: left;
+}
+.modal-body form .row .col {
+    flex: 100%;
+}
+.row.tab-section .nav-link.active {
+    line-height: 1.3em;
+    gap: 4px;
+}
+.tab-section button img {
+    width: 48px;
+}
+.row.tab-section .nav-link,.row.tab-section .nav-link.active {
+    padding: 5px 13px;
+    font-size: 15px;
+	gap: 5px;
+}
+img.aa {
+    width: 60px;
+    margin-right: 8px;
+}
+body .sales-sec {
+    padding: 0 !important;
+}
+body .banner-section h2 {
+    font-size: 25px !important;
+}
+.mobile-nav img {
+    width: 150px;
+    margin-bottom: 10px;
+}
+body .banner-boxes {
+    gap: 0 !important;
+}
+.banner-section.py-5 {
+    padding: 0 !important;
+}
+button.vw-btn {
+    margin-bottom: 15px;
+}
+body .feature-txt {
+    margin-bottom: 0 !important;
+    padding-bottom: 0 !important;
+}
+.banner-section h5 {
+    width: 100%;
+    font-size: 22px;
+}
+.feature-ul {
+    gap: 0;
+}
+body .insights-section {
+    padding: 30px 0 !important;
+}
+.blog-sec {
+    padding-right: 10px !important;
+}
+.box-three {
+    margin-bottom: 20px;
+}
+.blog-img-box-content {
+    margin-bottom: 25px;
+}
+body .webinars-section {
+    padding: 25px 0 0 0!important;
+}
+body .works-section {
+    padding: 18px 0 0 0 !important;
+}
+body .carousel-control-next-icon, body .carousel-control-prev-icon {
+    width: 2rem !important;
+    height: 2rem !important;
+}
+body .testimonial-section {
+    padding: 20px 0 !important;
+}
+.footer-txt {
+    width: fit-content !important;
+}
+.footer-space {
+    margin-bottom: 25px;
+}
+.footer-logo {
+    margin-bottom: 38px;
+}
+body .video-sec2 {
+    padding-left: 10px !IMPORTANT;
+}
+body h3.hdng-three {
+    font-size: 25px !important;
+	line-height:1.3em !important;
+}
+.footer p, .footer a {
+    line-height: 24px;
+}
+.butns button.ready-btn {
+    margin-bottom: 10px;
+}
+.carousel-caption p {
+    font-size: 16px;
+    line-height: 1.8em;
+}
+.butns-two.mt-2 {
+    margin: 0 !important;
+}
+.feature-ul ul {
+    margin-bottom: 0;
+}
+body .logo-section {
+    padding-top: 0 !important;
+}
+.video {
+    margin-bottom: 25px;
+}
+.logo-section img {
+    width: 80px;
+    margin-bottom: 12px;
+}
+.feature-percent-box span {
+    font-size: 44px;
+}
+body .tab-section .tab-content {
+    width: 100% !important;
+}
+.bg-hdng button.vw-btn, .feature-button button.vw-btn {
+    padding: 15px 30px !important;
+}
+body div#v-pills-tab {
+    width: 100% !important;
+	margin-bottom: 28px;
+}
+.tab-section .d-flex {
+    flex-wrap: wrap;
+}
+.justify-content-end.mobile-nav-btn {
+    justify-content: center !important;
+}
+.mobile-nav-btn button {
+    font-size: 14px !important;
+}
+.mobile-nav {
+    justify-content: center;
+}
+}
+@media screen and (min-width:768px)  and (max-width:980px){
+.banner-section h1 {
+    font-size: 38px!important;
+}
+.key-feature-section {
+    padding-bottom: 50px !important;
+}
+.banner-button button {
+    gap: 5px;
+    padding: 10px 15px !important;
+    font-size: 16px;
+}
+body .logo-section {
+    padding: 0 !important;
+}
+body .sales-sec {
+    padding: 0 !important;
+}
+.feature-ul {
+    gap: 40px !important;
+}
+.carousel-caption p {
+    font-size: 24px;
+    line-height: 32px;
+}
+body .works-section {
+    padding: 0 !important;
+}
+.butns-two.mt-2 {
+    margin: 0 !important;
+}
+.butns-two button {
+    margin-bottom: 7px;
+}
+body h3.hdng-three {
+    line-height: 1.3em;
+    font-size: 26px !important;
+}
+.logo-div img {
+    width: 92px;
+}
+.banner-boxes img {
+    width: 55px;
+}
+.banner-boxes {
+    flex-wrap: wrap;
+}	
+.banner-section h5 {
+    width: 100%;
+}
+.bg-hdng button.vw-btn, .feature-button button.vw-btn {
+    padding: 19px 30px;
+}
+}
+@media screen and (max-width:980px){
+.modal-dialog {
+   max-width: 80% !important; 
+}
+}
+@media screen and (min-width:1171px)  and (max-width:1580px){
+.modal-header h3 {
+    font-size: 23px !important;
+}
+}
+@media screen and (min-width:981px)  and (max-width:1170px){
+.logo-div img {
+    width: 100px;
+}
+.modal-dialog {
+   max-width: 70% !important; 
+}
+.banner-button button {	
+    gap: 14px;
+    padding: 14px 15px !important;
+    font-size: 15px;
+}
+.bg-hdng button.vw-btn, .feature-button button.vw-btn {
+    padding: 15px 30px;
+}
+.row.tab-section .nav-link {
+    font-size: 17px;
+}
+.banner-section h1 {
+    font-size: 34px;
+}
+.banner-boxes img {
+    width: 55px;
+}
+.butns-two.mt-2 {
+    margin: 0 !important;
+}
+.butns-two button {
+    margin-bottom: 7px;
+}
+.banner-boxes {
+    flex-wrap: wrap;
+}	
+.banner-section h5 {
+    width: 88%;
+}
+}
+@media screen and (max-width:1170px){
+.sub-footer-video {
+    height: 300px;
+}
+h3.hdng-three {
+    line-height: 38px;
+    font-size: 30px !important;
+}
+}
+.mobile-header{
+	display:none!important;
+}
+.integrated-inner-row p {
+    word-break: break-word;
+}
+@media screen and (max-width:991px){
+.desktop-nav{
+	display:none !important;
+}
+#track .col-md-6 {
+    width: 100%;
+}
+.key-feature-section{
+	padding-bottom:50px !important;
+}
+body .app-banner-section h1 {
+    font-size: 24px !important;
+}
+.app-box-tab .nav-pills .nav-link {
+    padding-bottom: 5px;
+}
+ul#pills-tab {
+    gap: 8px;
+}
+.feature-img {
+    width: 80px;
+    margin-bottom: 15px;
+}
+.row.integrated-row {
+    margin-top: 0;
+    padding: 24px !important;
+	justify-content:center !important;
+}
+body .security-section h5 {
+    width: 100% !important;
+    line-height: 23px;
+    font-size: 16px;
+}
+.security-section li {
+    font-size: 16px;
+    line-height: 28px;
+}
+.toggles {
+    left: 0;
+    width: 100%;
+    background: #fff;
+    top: 15%;
+    border-top: 3px solid #FA9A00;
+}
+body .full-width {
+    width: 100% !important;
+}
+.slider-sc .carousel-control-next-icon, .slider-sc .carousel-control-prev-icon {
+    width: 2rem !important;
+    height: 2rem !important;
+}
+.slider-sc div#carouselExampleCaptions .carousel-control-prev-icon {
+    right: 0;
+}
+.integrated-inner-row p {
+    word-break: break-word;
+    margin-bottom: 25px !important;
+	justify-content: center !important; 
+}
+div#track {
+    padding: 0 !important;
+}
+#pricing .alert {
+    margin-bottom: 0 !important;
+}
+#pricing .price-list button {
+    font-size: 13px;
+    padding: 14px 8px;
+}
+section#pricing {
+    padding-top: 25px !important;
+}
+.price-list.p-4 {
+    padding: 20px 10px!important;
+}
+#pricing .price-list ul {
+    height: unset;
+}
+.row.content {
+    width: 92%;
+    margin: 0 auto;
+}
+#pricing .col-8 {
+    width: 100%;
+}
+div#security {
+    padding: 20px 0 !important;
+}
+div#features {
+    padding-top: 0 !important;
+}
+.app-banner-section h5 {
+    font-size: 18px !important;
+}
+.app-banner-section button.app-bg-btn, .integrated-btn button.app-bg-btn {
+    font-size: 18px;
+    padding: 12px 30px;
+}
+.slider-sc div#carouselExampleCaptions .carousel-control-next-icon {
+    left: 0 !important;
+}
+div#carouselExampleCaptions .carousel-caption {
+    width: 100%;
+}
+.navbar-nav .nav-link {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.mobile-header .row>* {
+    display: flex;
+}
+.mobile-header nav.navbar.navbar-light {
+    float: left;
+    padding: 0;
+}
+.mobile-header button.clr-green {
+    display: block;
+    width: 184px;
+}
+.mobile-header .row {
+    justify-content: center;
+}
+img.logo {
+    margin-bottom: 10px;
+    display: flex;
+}
+.mobile-header {
+    display: block !important;
+    padding-top: 4px !important;
+}
+}
+@media screen and (min-width:992px) and (max-width:1170px){
+.footer-txt {
+    padding-left: 0 !important;
+}
+.slider-sc div#carouselExampleCaptions .carousel-control-next-icon {
+    left: 30px;
+}
+.slider-sc div#carouselExampleCaptions .carousel-control-prev-icon {
+    right: 30px;
+}
+.view-btn {
+    margin-bottom: 10px !IMPORTANT;
+}
+}
+
+@media (min-width: 576px){
+	.modal-dialog {
+    max-width: 40%;
+    margin-right: auto;
+    margin-left: auto;
+}
+}
